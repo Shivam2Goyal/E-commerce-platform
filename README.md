@@ -62,6 +62,7 @@ ADMIN_PASSWORD=your_admin_password
 ```env
 VITE_BACKEND_URL=http://localhost:4000
 
+
 ```
 
 ### 3. Installation & Execution
